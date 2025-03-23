@@ -24,7 +24,7 @@
 <!-- Tech Stack -->
 <h3 align="left">🚀 Tech Playground</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,c,html,css,react,nodejs,mongodb,postgresql,redis,linux,bash,git,github,gitlab,aws,gcp,docker,kubernetes,nginx,tensorflow,pytorch,opencv,figma,photoshop,illustrator,qemu" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,c,html,css,react,nodejs,mongodb,express,postgresql,redis,linux,bash,git,github,gitlab,aws,gcp,docker,kubernetes,nginx,tensorflow,pytorch,opencv,figma,photoshop,illustrator,go" />
 </p>
 
 
