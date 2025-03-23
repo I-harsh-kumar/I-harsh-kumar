@@ -22,7 +22,7 @@
 
 ### 🛠 **Tech Playground**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,c,html,css,react,nodejs,mongodb,postgresql,redis,linux,bash,git,github,aws,gcp,docker,kubernetes,nginx,tensorflow,pytorch,opencv,figma,photoshop,illustrator,canva" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,c,html,css,react,nodejs,mongodb,postgresql,redis,linux,bash,git,github,aws,gcp,docker,kubernetes,nginx,tensorflow,collab,pytorch,opencv,figma,photoshop,illustrator,canva" />
 </p>
 
 ---
