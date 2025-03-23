@@ -5,7 +5,7 @@
 
 <!-- Short Intro -->
 <h1 align="center"><strong>Hey, I'm Harsh aka BytePhantom! 🖤</strong></h1>
-<h3 align="center">💻 Software Engineering | 🚀 AI & Cloud | 🛠 Low-Level Programming</h3>
+<!-- <h3 align="center">💻 Software Engineering | 🚀 AI & Cloud | 🛠 Low-Level Programming</h3> -->
 <h4 align="center"><i>Turning edge into code, chasing bugs, and breaking things (just to fix them later).</i></h4>
 
 <!-- About Me without Table -->
@@ -24,7 +24,7 @@
 <!-- Tech Stack -->
 <h2 align="center">🚀 Tech Playground</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,c,html,css,react,nodejs,mongodb,postgresql,redis,linux,bash,git,github,gitlab,aws,gcp,docker,kubernetes,nginx,tensorflow,colab,pytorch,opencv,figma,photoshop,illustrator,canva,pytest,cisco" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,c,html,css,react,nodejs,mongodb,postgresql,redis,linux,bash,git,github,gitlab,aws,gcp,docker,kubernetes,nginx,tensorflow,google colab,pytorch,opencv,figma,photoshop,illustrator" />
 </p>
 
 <!-- Social Media -->
