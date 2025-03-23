@@ -1,6 +1,6 @@
 <!-- GIF Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnIxcjgwOTBndjJvdXhxMGpveTV4eW9iNGJpdm1ia3E5cGNjZXRqaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cO8j0B6L5bKu6YOMh7/giphy.gif" width="600px" height="300px" alt="Cyberpunk Workstation">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnIxcjgwOTBndjJvdXhxMGpveTV4eW9iNGJpdm1ia3E5cGNjZXRqaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cO8j0B6L5bKu6YOMh7/giphy.gif" width="800px" height="600px" alt="Cyberpunk Workstation">
 </p>
 
 <!-- Short Intro -->
@@ -9,7 +9,7 @@
 <h4 align="center"><i>Turning edge into code, chasing bugs, and breaking things (just to fix them later).</i></h4>
 
 <p align="right">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200px " alt="Hacker Vibes">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300px" height="200px" alt="Hacker Vibes">
 </p>
 
 <!-- About Me without Table -->
