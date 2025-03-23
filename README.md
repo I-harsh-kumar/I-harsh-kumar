@@ -1,6 +1,6 @@
 <!-- GIF Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnIxcjgwOTBndjJvdXhxMGpveTV4eW9iNGJpdm1ia3E5cGNjZXRqaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cO8j0B6L5bKu6YOMh7/giphy.gif" width="800px" height="600px" alt="Cyberpunk Workstation">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnIxcjgwOTBndjJvdXhxMGpveTV4eW9iNGJpdm1ia3E5cGNjZXRqaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cO8j0B6L5bKu6YOMh7/giphy.gif" width="800px" height="500px" alt="Cyberpunk Workstation">
 </p>
 
 <!-- Short Intro -->
@@ -13,7 +13,7 @@
 </p>
 
 <!-- About Me without Table -->
-<h3 align="left">🙋‍♂️ About Me</h3>
+<!-- <h3 align="left">🙋‍♂️ About Me</h3> -->
 <p>
 🔹 ⚙️ Building everything from kernels to cloud apps.<br>
 🔹 🔐 Passionate about AI/ML, Cloud, DevOps, and low-level programming.<br>
