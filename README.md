@@ -13,7 +13,7 @@
 </p>
 
 <!-- About Me without Table -->
-<h3>🙋‍♂️ About Me</h3>
+<h3 align="left">🙋‍♂️ About Me</h3>
 <p>
 🔹 ⚙️ Building everything from kernels to cloud apps.<br>
 🔹 🔐 Passionate about AI/ML, Cloud, DevOps, and low-level programming.<br>
