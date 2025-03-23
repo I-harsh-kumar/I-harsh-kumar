@@ -1,36 +1,35 @@
 ## Hi there 👋
 
+<!-- Profile Banner -->
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnIxcjgwOTBndjJvdXhxMGpveTV4eW9iNGJpdm1ia3E5cGNjZXRqaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cO8j0B6L5bKu6YOMh7/giphy.gif" width="80%" alt="Cyberpunk Workstation">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnIxcjgwOTBndjJvdXhxMGpveTV4eW9iNGJpdm1ia3E5cGNjZXRqaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cO8j0B6L5bKu6YOMh7/giphy.gif" width="80%" alt="Cyberpunk Workstation">
 </p>
 
-<h1 align="center"><strong>Hey, I'm Harsh aka BytePhantom! 🚀</strong></h1>
+<h1 align="center"><strong>Hey, I'm Harsh aka BytePhantom! 🖤 </strong></h1>
 <h3 align="center">💻 Software Engineering | 🚀 AI & Cloud | 🛠 Low-Level Programming</h3>
-<h4 align="center"><i>Turning coffee into code, chasing bugs, and breaking things (just to fix them later).</i></h4>
+<h4 align="center"><i>Turning edge into code, chasing bugs, and breaking things (just to fix them later).</i></h4>
 
-<br>
+---
 
-<!-- Side GIF -->
-<p align="right">
-  <img width="300" src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" alt="Hacker Cat Coding">
+<!-- About Me Section -->
+###  **About Me**
+<p align="left">
+  🔹 ⚙️ Building everything from kernels to cloud apps.<br>
+  🔹 🔐 Passionate about AI/ML, Cloud, DevOps, and low-level programming.<br>
+  🔹 ☕ Fueled by coffee, creativity, and a pinch of chaos.👾
 </p>
 
-### 🛠 **About Me**
-- ⚙️ Building everything from kernels to cloud apps.
-- 🔐 Passionate about AI/ML, Cloud, DevOps, and low-level programming.
-- ☕ Fueled by coffee, creativity, and a pinch of chaos.👾
+---
 
-<br>
-
-### 🛠 **Tech Playground**
+<!-- Tech Stack Section -->
+### 🚀 **Tech Playground**
 <p align="center">
-  <br>
   <img src="https://skillicons.dev/icons?i=cpp,python,js,c,html,css,react,nodejs,mongodb,postgresql,redis,linux,bash,git,github,gitlab,aws,gcp,docker,kubernetes,nginx,tensorflow,colab,pytorch,opencv,figma,photoshop,illustrator,canva,pytest,cisco" />
-  <br>
 </p>
 
-<br>
+---
 
+<!-- Social Media Section -->
 ### 🌍 **Let's Connect**
 <p align="center">
   <a href="https://linkedin.com/in/harsh-kumar-453a32236">
@@ -44,8 +43,9 @@
   </a>
 </p>
 
-<br>
+---
 
+<!-- Spotify Section -->
 ### 🎶 **Now Playing**
 <p align="center">
   <a href="https://open.spotify.com/user/31lk5monsc65rm45s524ko7jlzdu">
@@ -53,22 +53,25 @@
   </a>
 </p>
 
-<br>
+---
 
-### ⚡ **Fun Facts**
-- 🧠 Binary is my native tongue.
-- 🎵 Good beats keep my code in rhythm.
-- 💡 Ctrl+C/Ctrl+V are my secret superpowers.
-- 🧑‍💻 **Debugging mode:** Active || **Procrastination mode:** Also active  
+<!-- Fun Facts Section -->
+### 🎭 **Fun Facts**
+🧠 Binary is my native tongue.<br>
+🎵 Good beats keep my code in rhythm.<br>
+💡 Ctrl+C/Ctrl+V are my secret superpowers.<br>
+🧑‍💻 **Debugging mode:** Active || **Procrastination mode:** Also active.
 
-<br>
+---
 
+<!-- GitHub Stats & Visitors Section -->
 ### 📊 **GitHub Vibes & Visitors**
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=I-harsh-kumar&theme=tokyonight" />
-  <br>
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=I-harsh-kumar&show_icons=true&theme=tokyonight" />
-  <br>
+</p>
+
+<p align="center">
   <img width="30%" src="https://komarev.com/ghpvc/?username=I-harsh-kumar&label=Visitors&color=5B84B1&style=flat">
 </p>
 
