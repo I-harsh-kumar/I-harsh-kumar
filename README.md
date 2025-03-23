@@ -1,6 +1,6 @@
 <!-- GIF Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnIxcjgwOTBndjJvdXhxMGpveTV4eW9iNGJpdm1ia3E5cGNjZXRqaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cO8j0B6L5bKu6YOMh7/giphy.gif" width="800px" height="500px" alt="Cyberpunk Workstation">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVzcmk2dHUwZ2Zhc3luMWFpZWphNW5hZXU0N3E5dGs0Z2N4cnk3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AIdGhVzDyXioKnLya7/giphy.gif" width="1000px" height="500px" alt="Cyberpunk Workstation">
 </p>
 
 <!-- Short Intro -->
@@ -9,11 +9,11 @@
 <h4 align="center"><i>Turning edge into code, chasing bugs, and breaking things (just to fix them later).</i></h4>
 
 <p align="right">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300px" height="200px" alt="Hacker Vibes">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanc5anA2NXJqanh6ZXdjcHNrZ25henlzOW90b21xODBtbGhxdGY3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VF0WIRjfwvFERopBFY/giphy.gif" width="400px" height="300px" alt="Hacker Vibes">
 </p>
 
 <!-- About Me without Table -->
-<!-- <h3 align="left">🙋‍♂️ About Me</h3> -->
+<h3 align="left">🙋‍♂️ About Me</h3> 
 <p>
 🔹 ⚙️ Building everything from kernels to cloud apps.<br>
 🔹 🔐 Passionate about AI/ML, Cloud, DevOps, and low-level programming.<br>
