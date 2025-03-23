@@ -22,14 +22,14 @@
 
 
 <!-- Tech Stack -->
-<h3 align="center">🚀 Tech Playground</h3>
+<h3 align="left">🚀 Tech Playground</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,c,html,css,react,nodejs,mongodb,postgresql,redis,linux,bash,git,github,gitlab,aws,gcp,docker,kubernetes,nginx,tensorflow,google colab,pytorch,opencv,figma,photoshop,illustrator" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,c,html,css,react,nodejs,mongodb,postgresql,redis,linux,bash,git,github,gitlab,aws,gcp,docker,kubernetes,nginx,tensorflow,google colab,pytorch,opencv,figma,photoshop,illustrator,premierpro,qemu" />
 </p>
 
 <!-- Social Media -->
-<h3 align="center">🌍 Let's Connect</h3>
-<p align="center">
+<h3 align="left">🌍 Let's Connect</h3>
+<p align="left">
   <a href="https://linkedin.com/in/harsh-kumar-453a32236">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -42,7 +42,7 @@
 </p>
 
 <!-- Fun Facts -->
-<h3 align="center">🎭 Fun Facts</h3>
+<h3 align="left">🎭 Fun Facts</h3>
 <ul>
   <li>🧠 Binary is my native tongue.</li>
   <li>🎵 Good beats keep my code in rhythm.</li>
@@ -51,11 +51,11 @@
 </ul>
 
 <!-- GitHub Stats & Visitors -->
-<h3 align="center">📊 GitHub Vibes & Visitors</h3>
+<h3 align="left">📊 GitHub Vibes & Visitors</h3>
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=I-harsh-kumar&theme=tokyonight" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=I-harsh-kumar&show_icons=true&theme=tokyonight" />
 </p>
-<p align="center">
+<p align="left">
   <img width="100px" src="https://komarev.com/ghpvc/?username=I-harsh-kumar&label=Visitors&color=5B84B1&style=flat">
 </p>
