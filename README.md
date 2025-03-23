@@ -24,8 +24,9 @@
 <!-- Tech Stack -->
 <h3 align="left">🚀 Tech Playground</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,c,html,css,react,nodejs,mongodb,postgresql,redis,linux,bash,git,github,gitlab,aws,gcp,docker,kubernetes,nginx,tensorflow,google colab,pytorch,opencv,figma,photoshop,illustrator,premierpro,qemu" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,c,html,css,react,nodejs,mongodb,postgresql,redis,linux,bash,git,github,gitlab,aws,gcp,docker,kubernetes,nginx,tensorflow,pytorch,opencv,figma,photoshop,illustrator,premierpro,qemu" />
 </p>
+
 
 <!-- Social Media -->
 <h3 align="left">🌍 Let's Connect</h3>
@@ -40,6 +41,7 @@
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
+
 
 <!-- Fun Facts -->
 <h3 align="left">🎭 Fun Facts</h3>
@@ -56,6 +58,6 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=I-harsh-kumar&theme=tokyonight" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=I-harsh-kumar&show_icons=true&theme=tokyonight" />
 </p>
-<p align="left">
+<p align="center">
   <img width="100px" src="https://komarev.com/ghpvc/?username=I-harsh-kumar&label=Visitors&color=5B84B1&style=flat">
 </p>
