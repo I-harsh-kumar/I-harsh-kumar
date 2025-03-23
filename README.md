@@ -1,54 +1,52 @@
 ## Hi there 👋
-<!-- Anime Tech Workstation GIF -->
+<!-- Animated Header -->
 <p align="center">
   <img src="https://your-gif-or-video-link.gif" width="80%" alt="Anime Workstation">
 </p>
 
-<h1 align="center">Hey there! 👋 I'm Harsh Kumar </h1>
-<h3 align="center">🚀 Tech Enthusiast | 🖥️ Open Source Contributor | 🎨 UI/UX Designer</h3>
+<h1 align="center"><strong>Hey, I'm Harsh! 🚀</strong></h1>
+<h3 align="center">💻 Code | 🎨 Design | ☕ Debug | 🚀 Repeat</h3>
+<h4 align="center"><i>Crafting sleek UI, writing efficient code, and breaking things (occasionally).</i></h4>
 
----
+<br>
+<img align="right" width=400 src="https://your-side-gif.gif" alt="Cyberpunk Coding Setup">
 
-### 🏆 **Notable Achievements**
-- 🏅 **Winner** - Smart India Hackathon 2023 🏆
-- 🎨 **Winner** - UMO Design X Social 2022
-- 💡 Built **ProcurePilot** - Government contract management tool (SIH 2023 Winner)
-- 🌍 Featured in **Top 10** at multiple **National & International Hackathons**
-
----
-
-### 🔥 **Tech Stack**
+<!-- Profile Views -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,python,mongodb,bash,linux,git,figma,photoshop" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=I-harsh-kumar&label=Visitors&color=5B84B1&style=flat">
+    <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=I-harsh-kumar&label=Visitors&color=FC766A&style=flat">
+    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=I-harsh-kumar&label=Visitors&color=FC766A&style=flat">
+  </picture>
 </p>
 
 ---
 
-### 🚀 **Projects**
-- 🔹 **[ProcurePilot](https://github.com/I-harsh-kumar/Procurepilot_SIH_finals)** - Smart contract management tool 🏆
-- 🔹 **[CleanO](https://github.com/I-harsh-kumar/CleanO-AlgoManiac)** - Smart waste management solution
-- 🔹 **[Recognicheck](https://github.com/I-harsh-kumar/face_recognition)** - AI-powered face recognition attendance system
-- 🔹 **[Thread-Sync App](https://github.com/I-harsh-kumar/Thread-sync-app---LFX)** - Advanced Linux thread synchronization
+### 🧑‍💻 **About Me**
+- 🛠 **Software engineer in the making** – turning caffeine into elegant solutions.  
+- 🎨 **UI/UX meets logic** – I build things that look good and work even better.  
+- 🌐 **Love exploring** tech, design, automation, and a bit of chaos.  
+- 🕹 **Debugging mode:** Active || **Procrastination mode:** Also active  
 
 ---
 
-### 📊 **GitHub Stats**
-<div align="center">
+### 🛠 **Tech Playground**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,c,html,css,react,nodejs,mongodb,postgresql,linux,bash,git,github,aws,gcp,docker,figma,photoshop,illustrator,canva" />
+</p>
+
+---
+
+### 📊 **GitHub Vibes**
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=I-harsh-kumar&theme=tokyonight" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=I-harsh-kumar&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-harsh-kumar&layout=compact&theme=tokyonight" />
-</div>
+</p>
 
 ---
 
-### 🎵 **Vibes While Coding**
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=your-spotify-id)](https://open.spotify.com/user/your-spotify-id)
-
----
-
-### 🌍 **Connect with Me**
+### 🌎 **Let's Connect**
 <p align="center">
   <a href="https://linkedin.com/in/harsh-kumar-453a32236"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/I-harsh-kumar"><img src="https://img.shields.io/badge/GitHub-%23171717.svg?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -57,15 +55,24 @@
 
 ---
 
+### 🎶 **Now Playing**
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=your-spotify-id)](https://open.spotify.com/user/your-spotify-id)
+
+---
+
 ### ⚡ **Fun Fact**
-🖥️ My workstation aesthetic is inspired by futuristic **anime tech setups**.  
-💡 I believe in **designing with logic & coding with creativity**.  
+💡 **Ctrl + C & Ctrl + V are my go-to superpowers.**  
+🎵 **Good beats = better code.**  
 
 ---
 
 ### 🚀 **Visitors**
 ![Profile Views](https://komarev.com/ghpvc/?username=I-harsh-kumar&color=blue)
 
+
+
+
+<!-- Anime Tech Workstation GIF -->
 <!--
 **I-harsh-kumar/I-harsh-kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
