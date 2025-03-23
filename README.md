@@ -5,54 +5,47 @@
 </p>
 
 <h1 align="center"><strong>Hey, I'm Harsh aka BytePhantom! 🚀</strong></h1>
-<h3 align="center">💻 Software Engineering | 🚀 AI & Cloud | 🛠 Low-Level Programming  </h3>
+<h3 align="center">💻 Software Engineering | 🚀 AI & Cloud | 🛠 Low-Level Programming</h3>
 <h4 align="center"><i>Turning coffee into code, chasing bugs, and breaking things (just to fix them later).</i></h4>
 
 <br>
-<img align="right" width=400 src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" alt="Hacker Cat Coding">
-
----
+<img align="right" width="400" src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" alt="Hacker Cat Coding">
 
 ### 🛠 **About Me**
 - ⚙️ Building everything from kernels to cloud apps.
 - 🔐 Passionate about AI/ML, Cloud, DevOps, and low-level programming.
 - ☕ Fueled by coffee, creativity, and a pinch of chaos.👾
 
----
-
 ### 🛠 **Tech Playground**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,c,html,css,react,nodejs,mongodb,postgresql,redis,linux,bash,git,github,aws,gcp,docker,kubernetes,nginx,tensorflow,collab,pytorch,opencv,figma,photoshop,illustrator,canva" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,c,html,css,react,nodejs,mongodb,postgresql,redis,linux,bash,git,github,gitlab,aws,gcp,docker,kubernetes,nginx,tensorflow,collab,pytorch,opencv,figma,photoshop,illustrator,canva,pytest,cisco" />
 </p>
 
----
-
-### 🎶 **Now Playing** & 🌍 **Let's Connect**
+### 🌍 **Let's Connect**
 <div align="center">
-  <a href="https://open.spotify.com/user/31lk5monsc65rm45s524ko7jlzdu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=your-spotify-id" width="45%" alt="Spotify Now Playing">
-  </a>
   <a href="https://linkedin.com/in/harsh-kumar-453a32236">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://twitter.com/@text2hk">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white">
-
   </a>
   <a href="mailto:text2hk@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
 
----
+### 🎶 **Now Playing**
+<div align="center">
+  <a href="https://open.spotify.com/user/31lk5monsc65rm45s524ko7jlzdu">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=your-spotify-id" width="45%" alt="Spotify Now Playing">
+  </a>
+</div>
 
 ### ⚡ **Fun Facts**
-- 🧠Binary is my native tongue.
-- 🎵Good beats keep my code in rhythm.
-- 💡Ctrl+C/Ctrl+V are my secret superpowers.
+- 🧠 Binary is my native tongue.
+- 🎵 Good beats keep my code in rhythm.
+- 💡 Ctrl+C/Ctrl+V are my secret superpowers.
 - 🧑‍💻 **Debugging mode:** Active || **Procrastination mode:** Also active  
-
----
 
 ### 📊 **GitHub Vibes & Visitors**
 <div align="center">
