@@ -10,22 +10,18 @@
 <h3 align="center">💻 Software Engineering | 🚀 AI & Cloud | 🛠 Low-Level Programming</h3>
 <h4 align="center"><i>Turning edge into code, chasing bugs, and breaking things (just to fix them later).</i></h4>
 
-<!-- About Me with Side GIF -->
-<table align="center">
-  <tr>
-    <td width="55%">
-      <h2>🙋‍♂️ About Me</h2>
-      <ul>
-        <li>🔹 ⚙️ Building everything from kernels to cloud apps.</li>
-        <li>🔹 🔐 Passionate about AI/ML, Cloud, DevOps, and low-level programming.</li>
-        <li>🔹 ☕ Fueled by coffee, creativity, and a pinch of chaos.👾</li>
-      </ul>
-    </td>
-    <td width="45%">
-      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250px" alt="Hacker Vibes">
-    </td>
-  </tr>
-</table>
+<!-- About Me without Table -->
+<h2>🙋‍♂️ About Me</h2>
+
+<p>
+🔹 ⚙️ Building everything from kernels to cloud apps.<br>
+🔹 🔐 Passionate about AI/ML, Cloud, DevOps, and low-level programming.<br>
+🔹 ☕ Fueled by coffee, creativity, and a pinch of chaos.👾
+</p>
+
+<p align="right">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250px" alt="Hacker Vibes">
+</p>
 
 <!-- Tech Stack -->
 <h2 align="center">🚀 Tech Playground</h2>
@@ -65,4 +61,3 @@
 <p align="center">
   <img width="100px" src="https://komarev.com/ghpvc/?username=I-harsh-kumar&label=Visitors&color=5B84B1&style=flat">
 </p>
-
