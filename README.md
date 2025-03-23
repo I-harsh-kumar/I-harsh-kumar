@@ -8,25 +8,27 @@
 <!-- <h3 align="center">💻 Software Engineering | 🚀 AI & Cloud | 🛠 Low-Level Programming</h3> -->
 <h4 align="center"><i>Turning edge into code, chasing bugs, and breaking things (just to fix them later).</i></h4>
 
-<!-- About Me without Table -->
-<h4>🙋‍♂️ About Me</h4>
 <p align="right">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400px " alt="Hacker Vibes">
 </p>
+
+<!-- About Me without Table -->
+<h3>🙋‍♂️ About Me</h3>
 <p>
 🔹 ⚙️ Building everything from kernels to cloud apps.<br>
 🔹 🔐 Passionate about AI/ML, Cloud, DevOps, and low-level programming.<br>
 🔹 ☕ Fueled by coffee, creativity, and a pinch of chaos.👾
 </p>
 
+
 <!-- Tech Stack -->
-<h2 align="center">🚀 Tech Playground</h2>
+<h3 align="center">🚀 Tech Playground</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,c,html,css,react,nodejs,mongodb,postgresql,redis,linux,bash,git,github,gitlab,aws,gcp,docker,kubernetes,nginx,tensorflow,google colab,pytorch,opencv,figma,photoshop,illustrator" />
 </p>
 
 <!-- Social Media -->
-<h2 align="center">🌍 Let's Connect</h2>
+<h3 align="center">🌍 Let's Connect</h3>
 <p align="center">
   <a href="https://linkedin.com/in/harsh-kumar-453a32236">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -40,7 +42,7 @@
 </p>
 
 <!-- Fun Facts -->
-<h2 align="center">🎭 Fun Facts</h2>
+<h3 align="center">🎭 Fun Facts</h3>
 <ul>
   <li>🧠 Binary is my native tongue.</li>
   <li>🎵 Good beats keep my code in rhythm.</li>
@@ -49,7 +51,7 @@
 </ul>
 
 <!-- GitHub Stats & Visitors -->
-<h2 align="center">📊 GitHub Vibes & Visitors</h2>
+<h3 align="center">📊 GitHub Vibes & Visitors</h3>
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=I-harsh-kumar&theme=tokyonight" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=I-harsh-kumar&show_icons=true&theme=tokyonight" />
