@@ -9,16 +9,14 @@
 <h4 align="center"><i>Turning edge into code, chasing bugs, and breaking things (just to fix them later).</i></h4>
 
 <!-- About Me without Table -->
-<h2>🙋‍♂️ About Me</h2>
-
+<h4>🙋‍♂️ About Me</h4>
+<p align="right">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400px " alt="Hacker Vibes">
+</p>
 <p>
 🔹 ⚙️ Building everything from kernels to cloud apps.<br>
 🔹 🔐 Passionate about AI/ML, Cloud, DevOps, and low-level programming.<br>
 🔹 ☕ Fueled by coffee, creativity, and a pinch of chaos.👾
-</p>
-
-<p align="right">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400px " alt="Hacker Vibes">
 </p>
 
 <!-- Tech Stack -->
