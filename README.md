@@ -18,7 +18,7 @@
 </p>
 
 <p align="right">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250px" alt="Hacker Vibes">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400px " alt="Hacker Vibes">
 </p>
 
 <!-- Tech Stack -->
